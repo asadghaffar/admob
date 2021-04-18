@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ad Mob</string>
+
+    <string name="banner_test_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_test_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="native_advance_test_id">ca-app-pub-3940256099942544/2247696110</string>
+
+
+</resources>
